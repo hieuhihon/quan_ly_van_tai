@@ -86,10 +86,6 @@ Hằng số nằm ở đầu `services.py` nên dễ chỉnh.
 Giả định: "chuyến đã thực hiện" là chuyến có ngày khởi hành ≤ thời điểm hiện tại; số năm sử dụng = năm hiện tại − đời xe;
 thâm niên = năm hiện tại − năm vào làm (theo `DATEDIFF(YEAR, …)`).
 
-## Kiểm thử
 
-```bash
-python -m unittest discover -s tests -v
-```
 
 

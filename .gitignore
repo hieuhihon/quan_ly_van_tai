@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+# CSDL tạo ra khi chạy chương trình (mỗi máy có một bản riêng)
+data/vantai.db
+data/*.db-journal

@@ -92,15 +92,4 @@ thâm niên = năm hiện tại − năm vào làm (theo `DATEDIFF(YEAR, …)`).
 python -m unittest discover -s tests -v
 ```
 
-## Đưa lên GitHub
 
-```bash
-git init
-git add .
-git commit -m "Quản lý hãng vận tải hành khách đường dài"
-git branch -M main
-git remote add origin https://github.com/<tai-khoan>/<ten-repo>.git
-git push -u origin main
-```
-
-(Tạo trước một repository trống trên github.com. File `data/vantai.db` đã được liệt kê trong `.gitignore`.)

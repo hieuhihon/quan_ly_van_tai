@@ -16,17 +16,7 @@ Người dùng không cần biết lập trình: chỉ cần mở chương trìn
 
 ## Cài đặt và chạy
 
-Yêu cầu: Python 3.8 trở lên.
-
-```bash
-pip install -r requirements.txt
-python main.py
-```
-
-Trên Linux nếu báo thiếu `tkinter`: `sudo apt install python3-tk`. Windows và macOS (Python từ python.org) đã có sẵn.
-
-Lần đầu mở chương trình, bấm **"Nạp dữ liệu demo"** để có ngay dữ liệu minh họa (hoặc **"Nhập dữ liệu từ Excel"** với file
-`data/mau_nhap_lieu.xlsx`). CSDL được lưu ở `data/vantai.db`.
+Tải và giải nén file VanTaiHanhKhach.rar để sử dụng chương trìnhh
 
 ## Hướng dẫn sử dụng
 
